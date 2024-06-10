@@ -28,6 +28,7 @@ Open your ```Remix IDE``` Software and install all the dependencies.
          }
      }
 }```
+
 4. Compile and deploy the contract given above.
 5. The three state variables created will be displayed on the screen alongwith the function. We will be asked to write the address and the value that were passed as parameters.
 6. For the address, we will copy the ```account number``` and paste it in the ```address``` part. 
